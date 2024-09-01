@@ -12,6 +12,7 @@ Payment_type
 4: Dispute
 
 5: Unknown
+
 ![image](https://github.com/user-attachments/assets/e8d55399-b4f3-48f9-a01e-ddfdf6b175a1)
 
 Most of the data are cash and card payment.
