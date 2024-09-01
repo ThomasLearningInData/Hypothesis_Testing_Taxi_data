@@ -29,6 +29,7 @@ $H_A$: There is a difference in the average fare amount between customers who us
 Since the p-value for the Levene test is less than 0.05, the hypothesis that the variances are equal is rejected.
 
 ![螢幕截圖 2024-09-01 下午1 30 10](https://github.com/user-attachments/assets/93a36a1e-1435-4bbb-bd53-3f9ed89fcf94)
+
 Since the p-value is less than 0.05, we can conclude that there is a statistically significant difference between card and cash.
 
 #### What business insight(s) can you draw from the result of your hypothesis test?
